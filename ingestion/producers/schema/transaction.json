@@ -1,0 +1,24 @@
+{
+  "type": "record",
+  "name": "Transaction",
+  "namespace": "com.banking.rtm",
+  "fields": [
+    {"name": "transaction_id", "type": "string"},
+    {"name": "account_id", "type": "string"},
+    {"name": "customer_name", "type": "string"},
+    {"name": "amount", "type": "double"},
+    {"name": "currency", "type": "string"},
+    {"name": "transaction_type", "type": "string"},
+    {"name": "channel", "type": "string"},
+    {"name": "merchant_name", "type": "string"},
+    {"name": "merchant_category", "type": "string"},
+    {"name": "location_city", "type": "string"},
+    {"name": "location_country", "type": "string"},
+    {"name": "latitude", "type": "double"},
+    {"name": "longitude", "type": "double"},
+    {"name": "timestamp", "type": "string"},
+    {"name": "status", "type": "string"},
+    {"name": "device_id", "type": "string"},
+    {"name": "ip_address", "type": "string"}
+  ]
+}

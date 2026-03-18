@@ -1,0 +1,2 @@
+v1
+{"path":"file:///C:/Users/dell/banking-rtm-pipeline/data/delta/bronze/transactions/part-00000-acf4b9e3-d58e-4fb3-828d-e46484012178-c000.snappy.parquet","size":9388,"isDir":false,"modificationTime":1773830142351,"blockReplication":1,"blockSize":33554432,"action":"add"}

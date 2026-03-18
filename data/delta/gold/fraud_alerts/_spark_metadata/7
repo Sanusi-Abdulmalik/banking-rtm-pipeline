@@ -1,0 +1,2 @@
+v1
+{"path":"file:///C:/Users/dell/banking-rtm-pipeline/data/delta/gold/fraud_alerts/part-00000-e4c59660-0eac-434a-9da6-1c7574545022-c000.snappy.parquet","size":10008,"isDir":false,"modificationTime":1773830188312,"blockReplication":1,"blockSize":33554432,"action":"add"}
