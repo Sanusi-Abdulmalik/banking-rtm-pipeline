@@ -483,7 +483,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## 👤 Author
 
-**Your Name**
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/your-username)
+**Sanusi Abdulmalik**
+[LinkedIn](https://linkedin.com/in/abdulmalik-sanusi-b3a0813a3) · [GitHub](https://github.com/Sanusi-Abdulmalik)
 
 > Built as a Data Engineering portfolio project demonstrating production-grade pipeline design on Azure.
